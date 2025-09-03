@@ -1,0 +1,56 @@
+!SESSION 2025-09-04 07:19:36.791 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_KR
+Framework arguments:  -product org.eclipse.epp.package.dsl.product -keyring /Users/asadbekkhamzaev/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.dsl.product -keyring /Users/asadbekkhamzaev/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-04 07:19:37.844
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-04 07:19:50.033
+!MESSAGE Logback config file: /Users/asadbekkhamzaev/Desktop/202213136/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2025-09-04 07:19:52.656
+!MESSAGE No search provider was registered. Tasks search is not available.
+
+!ENTRY org.eclipse.ui.ide 4 4 2025-09-04 07:23:33.467
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2025-09-04 07:23:33.470
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2025-09-04 07:23:33.470
+!MESSAGE The project description file (.project) for 'Exercise01_202213136' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SESSION 2025-09-04 07:23:35.607 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_KR
+Framework arguments:  -product org.eclipse.epp.package.dsl.product -keyring /Users/asadbekkhamzaev/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.dsl.product -keyring /Users/asadbekkhamzaev/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-04 07:23:38.300
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-04 07:23:42.071
+!MESSAGE Logback config file: /Users/asadbekkhamzaev/Desktop/202213136/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2025-09-04 07:23:44.123
+!MESSAGE No search provider was registered. Tasks search is not available.
+!SESSION 2025-09-04 08:25:01.423 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_KR
+Framework arguments:  -product org.eclipse.epp.package.dsl.product -keyring /Users/asadbekkhamzaev/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.dsl.product -keyring /Users/asadbekkhamzaev/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-04 08:25:04.436
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-04 08:25:09.111
+!MESSAGE Logback config file: /Users/asadbekkhamzaev/Desktop/202213136/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2025-09-04 08:25:12.465
+!MESSAGE No search provider was registered. Tasks search is not available.

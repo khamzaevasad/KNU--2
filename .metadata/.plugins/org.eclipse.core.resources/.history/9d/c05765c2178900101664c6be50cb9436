@@ -1,0 +1,24 @@
+package com.example.exercise01;
+import java.util.Scanner;
+public class exercise01_202213136 {
+
+	 public static void main(String[] args) {
+	        Scanner scanner = new Scanner(System.in);
+
+	        // Ism va student ID kiritish
+	        System.out.print("이름을 입력해주세요: ");
+	        String name = scanner.nextLine();
+
+	        System.out.print("학번을 입력해주세요: ");
+	        String studentId = scanner.nextLine();
+
+	        // Kurs nomini chiqarish
+	        System.out.println("자바프로그래밍2");
+
+	        // Oxirgi xabar, bitta print bilan
+	        System.out.println(name + "(" + studentId + ") 학생 환영합니다.");
+
+	        scanner.close();
+	    }
+
+}

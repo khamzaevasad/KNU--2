@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+/Users/asadbekkhamzaev/Desktop/202213136/.metadata/.plugins/org.eclipse.jdt.core
+230379697.index
+1865797976.index
+3820302749.index
+2494693643.index
+2657394288.index
